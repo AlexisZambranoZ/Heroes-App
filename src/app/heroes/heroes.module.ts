@@ -9,6 +9,7 @@ import { NewPageComponent } from './pages/new-page/new-page.component';
 import { SearchPageComponent } from './pages/search-page/search-page.component';
 import { MaterialModule } from '../material/material.module';
 import { HeroesService } from './services/heroes.service';
+import { CardComponent } from './components/card/card.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { HeroesService } from './services/heroes.service';
     LayoutPageComponent,
     ListPageComponent,
     NewPageComponent,
-    SearchPageComponent
+    SearchPageComponent,
+    CardComponent
   ],
   imports: [
     CommonModule,
