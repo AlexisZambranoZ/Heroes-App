@@ -169,6 +169,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "mhI-6Ye",
+      "superhero": "Black Panther",
+      "publisher": "Marvel Comics",
+      "alter_ego": "T'Challa",
+      "first_appea": "Los 4 Fantasticos #52",
+      "characters": "T'Challa",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
     }
   ]
 }
