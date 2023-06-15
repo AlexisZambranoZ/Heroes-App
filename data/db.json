@@ -2,14 +2,51 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
-    },
-    {
-      "id": 2
     }
   ],
   "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
+    {
+      "id": "dc-flash",
+      "superhero": "Flash",
+      "publisher": "DC Comics",
+      "alter_ego": "Jay Garrick",
+      "first_appearance": "Flash Comics #1",
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+    },
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen"
+    },
     {
       "id": "dc-wonder",
       "superhero": "Wonder Woman",
@@ -131,13 +168,13 @@
       "characters": "Norrin Radd"
     },
     {
-      "id": "mhI-6Ye",
+      "id": "svMAY33",
       "superhero": "Black Panther",
       "publisher": "Marvel Comics",
-      "alter_ego": "T'Challa",
-      "first_appea": "Los 4 Fantasticos #52",
-      "characters": "T'Challa",
-      "alt_img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
+      "alter_ego": "T'Chala",
+      "first_appearance": "Los 4 Fantásticos #43",
+      "characters": "T'Chala",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Black_Panther_OS_Vol_1_2.png/220px-Black_Panther_OS_Vol_1_2.png"
     }
   ]
 }
